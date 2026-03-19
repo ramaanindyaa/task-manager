@@ -43,7 +43,7 @@ export default function Home() {
 
       <header className="ocean-shell sticky top-0 z-20 pt-4">
         <nav className="ocean-glass flex items-center justify-between rounded-ocean-card px-4 py-3 sm:px-5">
-          <p className="text-sm font-semibold tracking-[0.24em] text-cyan-100">WAVEBOARD</p>
+          <p className="text-sm font-semibold tracking-[0.2em] text-cyan-100">TASK MANAGER</p>
           <div className="hidden items-center gap-7 text-sm text-slate-200/90 md:flex">
             <a href="#features" className="transition hover:text-teal-300">Features</a>
             <a href="#details" className="transition hover:text-teal-300">Details</a>
